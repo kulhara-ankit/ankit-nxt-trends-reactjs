@@ -10,10 +10,11 @@ The website is crafted using a combination of cutting-edge technologies, with HT
 
 ![image](https://github.com/kulhara-ankit/ankit-nxt-trends-reactjs/assets/146313680/fed15cbb-32f5-4c7c-8c6e-0740ea5ce660)
 
-![image](https://github.com/kulhara-ankit/ankit-nxt-trends-reactjs/assets/146313680/a3d1153e-1f81-4e05-8170-2e90bbf2aa36)
+![image](https://github.com/kulhara-ankit/ankit-nxt-trends-reactjs/assets/146313680/509f7790-20e0-4411-aa5f-2b49b34efe04)
 
-![image](https://github.com/kulhara-ankit/ankit-nxt-trends-reactjs/assets/146313680/e896c799-e643-46ab-b0a1-507ecf3bf4fd)
+![image](https://github.com/kulhara-ankit/ankit-nxt-trends-reactjs/assets/146313680/d511de11-65c3-4d75-90f7-a7f2bb5b13a2)
 
+![image](https://github.com/kulhara-ankit/ankit-nxt-trends-reactjs/assets/146313680/b60e5d66-333f-4e6d-a2a5-ed1f30a1819b)
 
 
 
