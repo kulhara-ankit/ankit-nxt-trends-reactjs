@@ -4,7 +4,7 @@ This website offers a user-friendly experience where visitors can easily find th
 
 The website is crafted using a combination of cutting-edge technologies, with HTML5 forming the foundation for structuring the content. The layout is styled and organized using the powerful CSS Flexbox, enabling a responsive and dynamic design that adapts to various screen sizes. To bring a highly interactive and efficient user interface, ReactJS is employed. This JavaScript library facilitates the creation of dynamic components, ensuring a smooth and engaging experience for users as they navigate through the website. Together, HTML5, CSS Flexbox, and ReactJS synergize to deliver a modern and user-centric web platform.
 
-Usernaem: rahul
+Username: rahul
 Password: rahul@2021
 
 
